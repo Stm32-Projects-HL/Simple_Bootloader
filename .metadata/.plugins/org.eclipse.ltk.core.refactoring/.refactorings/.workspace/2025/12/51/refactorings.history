@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Application/shared_api&apos;" deleteContents="false" description="Delete resource &apos;Application/shared_api&apos;" element1="/Application/shared_api" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1765674002142"/>&#x0A;<refactoring comment="Delete resource &apos;Application/shared_api&apos;" deleteContents="false" description="Delete resource &apos;Application/shared_api&apos;" element1="/Application/shared_api" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1765674030898"/>
-</session>
