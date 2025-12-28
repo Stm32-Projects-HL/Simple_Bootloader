@@ -34,6 +34,7 @@ This bootloader is designed for STM32 microcontrollers using the HAL library.
 ✔ Clean jump from bootloader to application  
 ✔ Sample application to show usage  
 
+---
 ## 🛠️ Getting Started
 
 ### Prerequisites
